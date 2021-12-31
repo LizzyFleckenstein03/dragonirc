@@ -1,0 +1,12 @@
+[submodule "lua_async"]
+	path = lua_async
+	url = https://github.com/EliasFleckenstein03/lua_async
+[submodule "luairc"]
+	path = luairc
+	url = https://github.com/EliasFleckenstein03/luairc
+[submodule "cutie"]
+	path = cutie
+	url = https://github.com/EliasFleckenstein03/cutie
+[submodule "luax"]
+	path = luax
+	url = https://github.com/EliasFleckenstein03/luax
